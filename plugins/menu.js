@@ -317,7 +317,7 @@ ${'```%npmdesc```'}
        } 
      }) 
      if (teks == '404') {
- 	let cute = 'https://telegra.ph/file/d53abca53f0dd8686472f.jpg'
+ 	let cute = `https://telegra.ph/file/d53abca53f0dd8686472f.jpg`
  	let ori = `Hi Kak, @${m.sender.split`@`[0]}
  
 Saya Adalah Bot coy Salah Satu Bot Whatsapp Yang Siap Membantu Kamu Mempermudah Sesuatu Seperti Membuat Sticker Dan Lainnya, Kalo Kamu Mau Request Fitur Silahkan Ketik #request Pesan Atau Fitur Yang Kamu Inginkan!`
